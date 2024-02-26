@@ -1,0 +1,1 @@
+Learning pytest TDD principe on https://testdriven.io/blog/modern-tdd/
